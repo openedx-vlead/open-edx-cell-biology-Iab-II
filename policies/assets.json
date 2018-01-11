@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CBII-AU", 
+            "course": "biotech29", 
             "name": "Amrita-Cell_biology_Virtual_Lab_II.JPG", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Amrita-Cell biology Virtual Lab II.JPG", 
-        "filename": "asset-v1:Amrita-University+CBII-AU+Anytime+type@asset+block@Amrita-Cell_biology_Virtual_Lab_II.JPG", 
+        "filename": "asset-v1:Virtual-Labs+biotech29+Anytime+type@asset+block@Amrita-Cell_biology_Virtual_Lab_II.JPG", 
         "import_path": "Amrita-Cell biology Virtual Lab II.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "CBII-AU", 
+            "Virtual-Labs", 
+            "biotech29", 
             "thumbnail", 
             "Amrita-Cell_biology_Virtual_Lab_II-JPG.jpg", 
             null
